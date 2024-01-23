@@ -18,7 +18,7 @@ Note: Markdown files don't allow for color, but the text below is an example of 
 
 (purple) A mountain lion has some small wounds and bruises.
 
-(pueple) A mountain lion is showing a few battle scars.
+(purple) A mountain lion is showing a few battle scars.
 
 (purple) A mountain lion has some very nasty wounds.
 
